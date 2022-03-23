@@ -1,0 +1,16 @@
+{
+  "name": "01.contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "lit-html": "^2.2.1"
+  }
+}
